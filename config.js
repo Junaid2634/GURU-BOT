@@ -6,9 +6,9 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 
-global.owner = [
-  ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
+global.owner = [ 
+  ['923263409442', 'Junaid Nazeer', true],
+  ['923263409442', 'Junaid Nazeer', true], 
   [''] 
 ] //Number of owners
 
@@ -50,7 +50,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = 'RAIS-JUNAID'
 global.premium = 'true'
 global.packname = 'GURU┃ᴮᴼᵀ' 
 global.author = '@Asliguru' 
@@ -67,7 +67,7 @@ global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
-global.done = '✅'
+global.done = '✅🇵🇰'
 global.error = '❌' 
 global.xmoji = '🔥' 
 
